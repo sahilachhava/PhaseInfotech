@@ -1,0 +1,529 @@
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+    .awo-blog .col-sm-6 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .awo-blog .blog-info {
+        margin-bottom: 30px;
+    }
+
+    .awo-blog .blog-contant {
+        padding: 30px 10px 30px;
+    }
+
+    .awo-about .sec-title h2 {
+        margin-top: 20px;
+    }
+
+    .edu-team .teacher-details a {
+        font-size: 15px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .awo-experience .timeline li .time-panel::before {
+        display: none;
+    }
+
+    .awo-experience .timeline li .time-panel::after {
+        right: -80px;
+    }
+
+    .awo-experience .timeline li .time-panel1::after {
+        left: -48px;
+    }
+
+    .awo-blog .hover-eff {
+        margin-bottom: 30px;
+    }
+
+    .awo-about .about-content ul li:nth-child(3),
+    .awo-about .about-content ul li:nth-child(4),
+    .awo-about .about-content ul li:nth-child(5),
+    .awo-about .about-content ul li:nth-child(5),
+    .awo-about .about-content ul li:nth-child(6) {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .header-navbar .navbar-default .navbar-nav > li > a {
+        margin-left: 10px;
+    }
+
+    .header-navbar .navbar-brand img {
+        width: 150px;
+        height: auto;
+    }
+
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .header-navbar-two .navbar-nav {
+        margin-right: 20px;
+    }
+
+    .header-navbar-two .navbar-default .navbar-nav > li > a {
+        margin-left: 11px;
+    }
+
+    .nav-search-box {
+        top: 28px;
+    }
+
+    .left .root {
+        left: 0;
+    }
+
+    .right .root {
+        right: 0;
+    }
+
+    .carousel-caption h3 {
+        font-size: 32px;
+    }
+
+    .awo-working-us .full-img img {
+        float: left;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .awo-about .sec-title h2 {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-top: 20px;
+    }
+
+    .awo-about .fa-ul {
+        margin-left: 3.14285714em;
+    }
+
+    .awo-working-us::before,
+    .awo-working-us::after {
+        width: 100%;
+    }
+
+    .awo-working-us .full-img {
+        z-index: 5;
+    }
+
+    .awo-service .col-md-4:nth-child(2) .about-details,
+    .awo-service .col-md-4:nth-child(4) .about-details,
+    .awo-service .col-md-4:nth-child(6) .about-details {
+        border-bottom: 1px solid #ddd;
+    }
+
+    .awo-service .col-md-4:nth-child(1) .about-details,
+    .awo-service .col-md-4:nth-child(3) .about-details,
+    .awo-service .col-md-4:nth-child(5) .about-details {
+        border-bottom: 1px solid #fff;
+    }
+
+    .edu-team .teacher-details a {
+        font-size: 15px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .w-100 {
+        width: 100%;
+    }
+
+    .awo-about .about-content p {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .awo-counter .counter-col {
+        margin-bottom: 30px
+    }
+
+    .awo-experience .timeline li .time-panel {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .awo-experience .timeline li .time-panel::after,
+    .awo-experience .timeline li .time-panel::before,
+    .awo-experience .timeline li .time-cir,
+    .awo-experience .timeline::before {
+        display: none;
+    }
+
+    .awo-experience .timeline li .time-panel .time-experience h4,
+    .awo-experience .timeline li .time-panel .time-experience h6 {
+        text-align: center;
+    }
+
+    .edu-blog .container .row::before {
+        width: 55%;
+    }
+
+    .edu-event .event-box {
+        width: 100%;
+        clear: both;
+    }
+
+    .particles-js-canvas-el {
+        height: 750px !important;
+    }
+
+    .fot-style-2 .top-footer .footer-service .footer-logo p {
+        margin: 8px 0;
+    }
+
+    .awo-blog .blog-info {
+        margin-bottom: 30px;
+    }
+
+    .awo-blog .blog-contant {
+        padding-bottom: 30px;
+    }
+
+    .awo-blog .hover-eff {
+        margin-bottom: 30px;
+    }
+
+    .awo-contact .left-contant {
+        padding: 80px 70px 50px 0px;
+    }
+
+    .awo-contact .left-contant .social-link ul li {
+        margin-right: 5px;
+    }
+
+    .awo-contacts h2 {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .top_header {
+        position: relative;
+        overflow: hidden;
+        padding: 15px 6px;
+    }
+
+    .container .row {
+        margin: 0;
+    }
+
+    .col-100 {
+        width: 100%;
+    }
+
+    .no-padding {
+        padding: 0 15px;
+    }
+
+    .edu-herader .no-padding {
+        padding: 0;
+    }
+
+    .awo-blog .no-padding {
+        padding: 0;
+    }
+
+    .carousel .item {
+        height: 100vh;
+    }
+
+    .center767 {
+        float: none !important;
+        text-align: center !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-default .navbar-collapse {
+        margin-top: 15px;
+        max-height: 320px;
+        background: #ffffff;
+    }
+
+    .header-navbar-two .navbar-default .navbar-nav > li > a {
+        color: #333333;
+    }
+
+    .header-navbar .navbar-nav .dropdown-menu > li > a {
+        padding: 5px 10px;
+    }
+
+    .nav-search-box {
+        right: 50%;
+        margin-right: -10px;
+    }
+
+    .awo-about .about-content {
+        margin-top: 20px;
+    }
+
+    .awo-working-us .work-content {
+        width: 100%;
+        left: 0%;
+        padding-right: 0;
+    }
+
+    .awo-working-us .single-working h3 {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .awo-working-us .full-img {
+        z-index: 4;
+        padding: 0;
+    }
+
+    .awo-working-us::before {
+        width: 0%;
+    }
+
+    .awo-working-us .full-img img {
+        width: 100%;
+    }
+
+    .awo-working-us::after {
+        left: 0%;
+        width: 120%;
+        height: 100%;
+    }
+
+    .awo-contact::before {
+        width: 0%;
+    }
+
+    .awo-contact::after {
+        left: 0%;
+        width: 120%;
+        height: 100%;
+    }
+
+    .awo-contact .left-contant {
+        padding: 40px 15px 40px 0px;
+    }
+
+    .awo-contact .right-contant {
+        z-index: 4;
+        position: relative;
+    }
+
+    .awo-counter {
+        padding: 100px 0 40px;
+        position: relative;
+        background-size:cover;
+    }
+
+    .awo-counter .counter-box {
+        margin-bottom: 30px;
+    }
+
+    .awo-blog .blog-contant {
+        padding: 20px 10px 30px;
+    }
+
+    .awo-slogan .pull-left p {
+        margin-bottom: 30px;
+    }
+
+    .awo-slogan button {
+        margin: 0 auto;
+    }
+
+    .footer-contact {
+        margin-top: 30px;
+    }
+    .topbar {
+        padding: 5px 0 0 10px;
+    }
+    .registration.pull-right {
+        float: none !important;
+    }
+    .portfolio-nav li {
+        margin-bottom: 10px;
+    }
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .awo-counter .counter-box {
+        float: left;
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .aeo-team .col-md-3 {
+        float: left;
+        width: 50%;
+    }
+
+    .mr-0 {
+        margin-right: 0 !important;
+    }
+
+    .particles-js-canvas-el {
+        height: 750px !important;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .full-wd-600 {
+        width: 100%;
+    }
+
+    .carousel-caption {
+        top: 40%;
+    }
+
+    .carousel .item {
+        height: 80vh;
+    }
+
+    .header-topbar-col {
+        padding: 0;
+    }
+
+    .header-topbar {
+        background: #8ECC0A;
+        padding: 15px 0;
+    }
+
+    .nav-search-box {
+        right: 40%;
+    }
+
+    .nav-search-box {
+        top: 25px;
+    }
+
+    .particles-js-canvas-el {
+        height: 850px !important;
+    }
+
+    .nex-tab-btn ul li {
+        margin: 0 5px 0 0;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+
+    section .container, .section .container {
+        padding: 70px 0 50px
+    }
+
+    .left .root,
+    .right .root {
+        display: none;
+    }
+
+    .awo-category .category .list-tab i {
+        margin-bottom: 10px;
+    }
+
+    .awo-about .sec-title h2 {
+        font-size: 26px;
+    }
+
+    .awo-about .about-content p {
+        margin-top: 0;
+    }
+
+    .full-wd-480 {
+        width: 100%;
+    }
+
+    .section-header h2::before {
+        display: none;
+    }
+
+    .section-header h2 {
+        font-size: 26px;
+    }
+
+    .awo-contact .left-contant .social-link ul li {
+        margin-right: 5px;
+    }
+
+    .blog-contant h4 {
+        font-size: 20px;
+    }
+
+    .blog-box .social li {
+        transform: translateY(-120px);
+    }
+
+    .blog-box .social li a {
+        margin-top: 70px;
+    }
+
+    .blog-box .social li::before {
+        height: 70px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 36px;
+    }
+
+    .root {
+        right: 0;
+    }
+
+    .particles-js-canvas-el {
+        height: 1250px !important;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .carousel-caption h3 {
+        font-size: 20px;
+    }
+
+    .carousel-caption p {
+        letter-spacing: 1px;
+    }
+
+    .awo-counter .col-xs-6 {
+        width: 100%;
+    }
+
+    .awo-banner .page-title-box {
+        margin: 0 auto;
+        width: 100%;
+        padding: 50px 20px;
+    }
+
+    .particles-js-canvas-el {
+        height: 1250px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .nav-search-box {
+        right: 35%;
+    }
+
+    .awo-about .about-content ul li button {
+        padding: 16px 15px;
+    }
+
+    .particles-js-canvas-el {
+        height: 1250px !important;
+    }
+}
