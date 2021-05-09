@@ -9,16 +9,16 @@ for Phase Infotech <br /><br />
 
 _Homepage_<br />
 
-![Homepage](https://github.com/sahilachhava/SmartCorporation/blob/main/screenshots/home.png)<br />
+![Homepage](https://github.com/sahilachhava/PhaseInfotech/blob/main/screenshots/home.png)<br />
 
 _About us_<br />
 
-![Homepage](https://github.com/sahilachhava/SmartCorporation/blob/main/screenshots/about.png)<br />
+![Homepage](https://github.com/sahilachhava/PhaseInfotech/blob/main/screenshots/about.png)<br />
 
 _Services_<br />
 
-![Homepage](https://github.com/sahilachhava/SmartCorporation/blob/main/screenshots/service.png)<br />
+![Homepage](https://github.com/sahilachhava/PhaseInfotech/blob/main/screenshots/service.png)<br />
 
 _Technologies_<br />
 
-![Homepage](https://github.com/sahilachhava/SmartCorporation/blob/main/screenshots/tech.png)<br />
+![Homepage](https://github.com/sahilachhava/PhaseInfotech/blob/main/screenshots/tech.png)<br />
