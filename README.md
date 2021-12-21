@@ -3,7 +3,7 @@
 **Developed in 2018** <br />
 for Phase Infotech <br /><br />
 
-*This business website is developed for Phase Infotech, a freelancing company run by me during 2018-19*<br />
+*This business website is developed for Phase Infotech*<br />
 
 **Screenshots**
 
